@@ -8,49 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "917bbe29cb8a4dfe",
+            "id": "a3417203c6bb0c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Músicas/Bling bang bang born.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bling bang bang born"
+              "title": "index"
             }
           },
           {
-            "id": "cbc1a19f86806c06",
+            "id": "7d732621bd5f99f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Brand New World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brand New World"
-            }
-          },
-          {
-            "id": "697bb64335d4ac07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Caramel Ribbon Custard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caramel Ribbon Custard"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,9 +99,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Músicas/Caramel Ribbon Custard.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -130,7 +111,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -2.9,
                   "nodeSizeMultiplier": 1,
@@ -145,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Caramel Ribbon Custard"
+              "title": "Graph view"
             }
           }
         ]
@@ -243,34 +224,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697bb64335d4ac07",
+  "active": "7d732621bd5f99f7",
   "lastOpenFiles": [
-    "content/Animes/Monogatari Series.md",
-    "content/Músicas/Caramel Ribbon Custard.md",
-    "content/Músicas/Chase.md",
-    "content/Músicas/Bling bang bang born.md",
-    "content/Membros/DJ.md",
+    "content/Membros/Octavus.md",
+    "content/index.md",
     "content/Animes/Psycho-Pass.md",
     "content/Músicas/Abnormalize.md",
+    "content/Animes/One Piece.md",
+    "content/Músicas/Brand New World.md",
+    "content/Animes/Naruto.md",
+    "content/Músicas/Blue bird.md",
+    "content/Animes/Monogatari Series.md",
+    "content/Músicas/Caramel Ribbon Custard.md",
+    "content/Animes/Mashle.md",
+    "content/Músicas/Bling bang bang born.md",
+    "content/Animes/JoJo 's Bizarre Adventure.md",
+    "content/Animes/Gundam.md",
+    "content/Músicas/Chase.md",
+    "content/Animes/Dragon Ball.md",
+    "content/Animes/Bleach.md",
+    "content/Músicas/Cha-la head Cha-la.md",
     "content/Músicas/Alones.md",
     "content/Músicas/Ash Like Snow.md",
-    "content/Músicas/Blue bird.md",
-    "content/Músicas/Brand New World.md",
-    "content/Animes/JoJo 's Bizarre Adventure.md",
-    "content/index.md",
+    "content/Membros/DJ.md",
+    "content/Membros/Kanna.md",
     "content/Animes/Serial Experiments Lain.md",
-    "content/Animes/Bleach.md",
     "content/Músicas/Duvet.md",
     "content/Músicas/abnormalize.md",
     "content/Músicas/Alones copy.md",
-    "content/notas/2025/07/03/entrada/Instructure-Canvas.md",
-    "content/notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md",
-    "content/notas/2025/07/03/entrada/AI_VALIS.md",
-    "content/notas/2025/07/03/entrada/Netsuite.md",
-    "content/notas/2024/07/26/atomo/Inteligencia_artificial.md",
-    "content/notas/2025/07/03/entrada/Gitlab.md",
-    "content/notas/2025/07/03/entrada/SIS_Classe_365.md",
-    "content/notas/2025/07/03/entrada/eLibro.md",
     "content/notas/2025/07/03/entrada",
     "content/notas/2025/07/03",
     "content/notas/2025/07",
