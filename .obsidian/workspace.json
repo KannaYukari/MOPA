@@ -25,10 +25,14 @@
             "id": "7d732621bd5f99f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/Membros/Octavus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Octavus"
             }
           }
         ],
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/Membros/Octavus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Octavus"
             }
           }
         ]
@@ -226,6 +231,9 @@
   },
   "active": "7d732621bd5f99f7",
   "lastOpenFiles": [
+    "content/Membros/Kanna.md",
+    "content/Membros/DJ.md",
+    "content/Animes/Bleach.md",
     "content/Membros/Octavus.md",
     "content/index.md",
     "content/Animes/Psycho-Pass.md",
@@ -242,12 +250,9 @@
     "content/Animes/Gundam.md",
     "content/Músicas/Chase.md",
     "content/Animes/Dragon Ball.md",
-    "content/Animes/Bleach.md",
     "content/Músicas/Cha-la head Cha-la.md",
     "content/Músicas/Alones.md",
     "content/Músicas/Ash Like Snow.md",
-    "content/Membros/DJ.md",
-    "content/Membros/Kanna.md",
     "content/Animes/Serial Experiments Lain.md",
     "content/Músicas/Duvet.md",
     "content/Músicas/abnormalize.md",
