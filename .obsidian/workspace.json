@@ -11,13 +11,46 @@
             "id": "917bbe29cb8a4dfe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/Músicas/Bling bang bang born.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bling bang bang born"
+            }
+          },
+          {
+            "id": "cbc1a19f86806c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Músicas/Brand New World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brand New World"
+            }
+          },
+          {
+            "id": "697bb64335d4ac07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Músicas/Caramel Ribbon Custard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caramel Ribbon Custard"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,6 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/Músicas/Caramel Ribbon Custard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -111,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Caramel Ribbon Custard"
             }
           }
         ]
@@ -209,13 +243,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "917bbe29cb8a4dfe",
+  "active": "697bb64335d4ac07",
   "lastOpenFiles": [
-    "content/Músicas/abnormalize.md",
+    "content/Animes/Monogatari Series.md",
+    "content/Músicas/Caramel Ribbon Custard.md",
+    "content/Músicas/Chase.md",
+    "content/Músicas/Bling bang bang born.md",
+    "content/Membros/DJ.md",
     "content/Animes/Psycho-Pass.md",
+    "content/Músicas/Abnormalize.md",
+    "content/Músicas/Alones.md",
+    "content/Músicas/Ash Like Snow.md",
+    "content/Músicas/Blue bird.md",
+    "content/Músicas/Brand New World.md",
+    "content/Animes/JoJo 's Bizarre Adventure.md",
+    "content/index.md",
+    "content/Animes/Serial Experiments Lain.md",
+    "content/Animes/Bleach.md",
+    "content/Músicas/Duvet.md",
+    "content/Músicas/abnormalize.md",
     "content/Músicas/Alones copy.md",
     "content/notas/2025/07/03/entrada/Instructure-Canvas.md",
-    "Untitled.md",
     "content/notas/2025/05/07/entrada/Jala_University-Engenharia_de_Software.md",
     "content/notas/2025/07/03/entrada/AI_VALIS.md",
     "content/notas/2025/07/03/entrada/Netsuite.md",
@@ -223,23 +271,9 @@
     "content/notas/2025/07/03/entrada/Gitlab.md",
     "content/notas/2025/07/03/entrada/SIS_Classe_365.md",
     "content/notas/2025/07/03/entrada/eLibro.md",
-    "content/notas/2025/07/03/entrada/Meetpoint.md",
-    "Reunião Jala.md",
-    "content/notas/2025/07/03/entrada/JalaSoft.md",
     "content/notas/2025/07/03/entrada",
     "content/notas/2025/07/03",
     "content/notas/2025/07",
-    "Excalidraw/Jala-Engenharia_software-Curso_admissao-Regras.excalidraw.md",
-    "content/notas/2025/05/07/entrada/Jala_University.md",
-    "Caixa de Entrada.md",
-    "\".md",
-    "content/notas/2024/07/26/atomo/SSH.md",
-    "content/notas/2024/07/26/atomo/SSH.sync-conflict-20250527-130936-DE3GDNU.md",
-    "content/notas/2024/07/08/Entrada/ssh_agent.md",
-    "content/notas/2024/07/08/Entrada/Git.md",
-    "content/notas/2025/05/12/entrada/Jala University - Curso de admissão da Engenharia de Software.md",
-    "content/notas/2025/06/30/atomo/Programação.md",
-    "content/notas/2025/06/29/entrada/Jala_University-Projetos_de_Software_e_Startups.md",
     "content/notas/2025/06/30/atomo",
     "content/notas/2025/06/30",
     "content/notas/2025/06/29/entrada",
