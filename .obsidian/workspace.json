@@ -8,91 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3417203c6bb0c31",
+            "id": "7467de8cc88ef155",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "7d732621bd5f99f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Membros/Octavus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Octavus"
-            }
-          },
-          {
-            "id": "3d7cd5af8eaa1cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Duvet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Duvet"
-            }
-          },
-          {
-            "id": "22e16782a88671ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Animes/Serial Experiments Lain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Serial Experiments Lain"
-            }
-          },
-          {
-            "id": "03423a65a910c9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Drawing days.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drawing days"
-            }
-          },
-          {
-            "id": "7cdb70e304ddb8c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Duvet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Duvet"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Músicas/Duvet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +111,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Duvet"
+              "title": "Graph view"
             }
           }
         ]
@@ -285,34 +209,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cdb70e304ddb8c4",
+  "active": "7467de8cc88ef155",
   "lastOpenFiles": [
-    "content/Músicas/Drawing days.md",
-    "content/Animes/Katekyo Hitman Reborn.md",
-    "content/Animes/Serial Experiments Lain.md",
-    "content/Animes/Psycho-Pass.md",
-    "content/Animes/JoJo 's Bizarre Adventure.md",
-    "content/Músicas/Alones.md",
-    "content/Animes/One Piece.md",
+    "content/Músicas/Easy Breezy.md",
+    "content/Membros/Kanna.md",
+    "content/Animes/Keep Your Hands Off Eizouken!.md",
     "content/Músicas/Duvet.md",
-    "content/Músicas/Chase.md",
-    "content/Músicas/Caramel Ribbon Custard.md",
+    "content/Músicas/Driver's High.md",
+    "content/Animes/GTO.md",
+    "content/Animes/Monogatari Series.md",
+    "content/Animes/Naruto.md",
+    "content/Animes/One Piece.md",
     "content/Animes/Bleach.md",
     "content/Membros/DJ.md",
     "content/Membros/Octavus.md",
-    "content/Membros/Kanna.md",
-    "content/index.md",
+    "content/Músicas/Drawing days.md",
     "content/Músicas/Abnormalize.md",
+    "content/Animes/Serial Experiments Lain.md",
+    "content/index.md",
+    "content/Animes/Katekyo Hitman Reborn.md",
+    "content/Animes/Psycho-Pass.md",
+    "content/Animes/JoJo 's Bizarre Adventure.md",
+    "content/Músicas/Alones.md",
+    "content/Músicas/Chase.md",
+    "content/Músicas/Caramel Ribbon Custard.md",
     "content/Músicas/Brand New World.md",
-    "content/Animes/Naruto.md",
     "content/Músicas/Blue bird.md",
-    "content/Animes/Monogatari Series.md",
     "content/Animes/Mashle.md",
     "content/Músicas/Bling bang bang born.md",
-    "content/Animes/Gundam.md",
-    "content/Animes/Dragon Ball.md",
-    "content/Músicas/Cha-la head Cha-la.md",
-    "content/Músicas/Ash Like Snow.md",
     "content/notas/2025/07/03/entrada",
     "content/notas/2025/07/03",
     "content/notas/2025/07",
