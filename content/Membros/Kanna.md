@@ -15,3 +15,16 @@
 
 - **Música:** [Caramel Ribbon Custard](../Músicas/Caramel%20Ribbon%20Custard.md)
 - **Anime:** [Monogatari Series](../Animes/Monogatari%20Series.md)
+
+## D - Duvet
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MM8RufZr5lw?si=9-PsYHghYV6DAUN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Duvet](../Músicas/Duvet.md)
+- **Anime:** [Serial Experiments Lain](../Animes/Serial%20Experiments%20Lain.md)
+
+## E - Easy Breezy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-91y7BJ8QA?si=qzFLCx5boVZBKC6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Easy Breezy](../Músicas/Easy%20Breezy.md)
+- **Anime:** [Keep Your Hands Off Eizouken!](../Animes/Keep%20Your%20Hands%20Off%20Eizouken!.md)
+- 
