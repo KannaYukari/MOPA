@@ -4,7 +4,7 @@
 - **Música:** [Abnormalize](../Músicas/Abnormalize.md)
 - **Anime:** [Psycho-Pass](../Animes/Psycho-Pass.md)
 
-## B - 
+## B - Blue Bird
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2upuBiEiXDk?si=Q6gSRoXBOCeykCLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Música:** [Blue bird](../Músicas/Blue%20bird.md)
@@ -21,3 +21,10 @@
 
 - **Música:** [Driver's High](../Músicas/Driver's%20High.md)
 - **Anime:** [GTO](../Animes/GTO.md)
+
+## E - Eternal Blaze
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-s4nvXBRwY?si=zcT9pjcYOp6bGIZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Eternal Blaze](../Músicas/Eternal%20Blaze.md)
+- **Anime:** [Magical Girl Lyrical Nanoha A's](../Animes/Magical%20Girl%20Lyrical%20Nanoha%20A's.md)
+
