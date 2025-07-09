@@ -1,4 +1,4 @@
-# Maratona de OP's
+# Maratona de OP's Alfabético
 ## Regras
 Regras da brincadeira:
 - Cada dia uma abertura de anime;
