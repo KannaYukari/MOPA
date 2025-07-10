@@ -33,3 +33,16 @@
 
 - **Música:** [Flying Fafnir](../Músicas/Flying%20Fafnir.md)
 - **Anime:** [Juuou Mujin no Fafnir](../Animes/Juuou%20Mujin%20no%20Fafnir.md)
+
+## G - Gifted
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GQluibIpqBY?si=FoD14QUoHQsdGMbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Gifted](../Músicas/Gifted.md)
+- **Anime:** [A Salad Bowl of Eccentrics](../Animes/A%20Salad%20Bowl%20of%20Eccentrics.md) 
+
+
+## H - Here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KuZbmLLv1vM?si=6GiWVAUT6Lo3Qrx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Here](../Músicas/Here.md)
+- **Anime:** [Mahoutsukai no Yome](../Animes/Mahoutsukai%20no%20Yome.md)
