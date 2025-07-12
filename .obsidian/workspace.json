@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Membros/Kanna.md",
+                "file": "content/Membros/Octavus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanna"
+              "title": "Octavus"
             }
           },
           {
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Membros/Kanna.md",
+                "file": "content/Membros/Octavus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +130,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kanna"
+              "title": "Graph of Octavus"
             }
           }
         ]
@@ -228,19 +228,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b46e98d37736c41",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "Saga of Tanya the Evil.md",
-    "Jingo Jungle.md",
-    "Irony.md",
-    "Oreimo.md",
     "content/Membros/Kanna.md",
+    "content/Animes/Saga of Tanya the Evil.md",
+    "content/Músicas/Jingo Jungle.md",
+    "content/Músicas/Irony.md",
+    "content/Animes/Oreimo.md",
     "content/Músicas/Here.md",
     "content/Animes/Mahoutsukai no Yome.md",
     "content/Membros/Octavus.md",
     "content/Músicas/Hologram.md",
-    "identity.md",
-    "Rakudai Kishi no Cavalry.md",
+    "content/Músicas/identity.md",
+    "content/Animes/Rakudai Kishi no Cavalry.md",
     "content/Animes/Fullmetal Alchemist.md",
     "content/Animes/GAMERS!.md",
     "content/Músicas/GAMERS!.md",
