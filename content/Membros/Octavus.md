@@ -51,3 +51,15 @@
 
 - **Música:** [identity](../Músicas/identity.md)
 - **Anime:** [Rakudai Kishi no Cavalry](../Animes/Rakudai%20Kishi%20no%20Cavalry.md)
+
+## J - Jiyuu no Tsubasa
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ErgcCrXU0Ig?si=8mLWcaLqSqWr7nX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Jiyuu no Tsubasa](../../Jiyuu%20no%20Tsubasa.md)
+- **Anime:** [Attack on Titan](../../Attack%20on%20Titan.md)
+
+## K - Kyouran Hey Kids!!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aZenmeRytEM?si=k0SqqkN-gTXQj35Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Kyouran Hey Kids!!](../../Kyouran%20Hey%20Kids!!.md)
+- **Anime:** [Noragami Aragoto](../../Noragami%20Aragoto.md)
