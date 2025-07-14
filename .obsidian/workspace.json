@@ -13,57 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Membros/Kanna.md",
+                "file": "content/Membros/Octavus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanna"
+              "title": "Octavus"
             }
           },
           {
-            "id": "5bfe602fbae9b8e8",
+            "id": "8b3f78d4660a9458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Akame ga Kill.md",
+                "file": "content/Animes/Kaguya-sama Love is War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akame ga Kill"
+              "title": "Kaguya-sama Love is War"
             }
           },
           {
-            "id": "c816a41360bd0bea",
+            "id": "ac6ce8f0a3f98eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liar Mask.md",
+                "file": "content/Músicas/Jiyuu no Tsubasa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liar Mask"
-            }
-          },
-          {
-            "id": "3e8e09d2f918deda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIXOSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WIXOSS"
+              "title": "Jiyuu no Tsubasa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Membros/Kanna.md",
+                "file": "content/Animes/Kaguya-sama Love is War.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kanna"
+              "title": "Graph of Kaguya-sama Love is War"
             }
           }
         ]
@@ -256,20 +243,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b46e98d37736c41",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "Akame ga Kill.md",
-    "WIXOSS.md",
-    "Liar Mask.md",
-    "Killy Killy Joker.md",
+    "content/Músicas/Love Dramatic.md",
+    "content/Músicas/Jiyuu no Tsubasa.md",
+    "content/Animes/Kaguya-sama Love is War.md",
+    "content/Animes/Attack on Titan.md",
+    "content/Membros/Octavus.md",
     "content/Membros/Kanna.md",
+    "content/Animes/Akame ga Kill.md",
+    "content/Animes/WIXOSS.md",
+    "content/Músicas/Liar Mask.md",
+    "content/Músicas/Killy Killy Joker.md",
     "content/Animes/Saga of Tanya the Evil.md",
     "content/Músicas/Jingo Jungle.md",
-    "Attack on Titan.md",
-    "content/Membros/Octavus.md",
-    "Jiyuu no Tsubasa.md",
-    "Noragami Aragoto.md",
-    "Kyouran Hey Kids!!.md",
+    "content/Animes/Noragami Aragoto.md",
+    "content/Músicas/Kyouran Hey Kids!!.md",
     "content/Animes/Rakudai Kishi no Cavalry.md",
     "content/Músicas/identity.md",
     "content/Músicas/Irony.md",
@@ -282,8 +271,6 @@
     "content/Músicas/GAMERS!.md",
     "content/Animes/A Salad Bowl of Eccentrics.md",
     "content/Músicas/Ash Like Snow.md",
-    "content/Músicas/Gifted.md",
-    "content/Animes/GTO.md",
     "content/notas/2025/07/03/entrada",
     "content/notas/2025/07/03",
     "content/notas/2025/07",

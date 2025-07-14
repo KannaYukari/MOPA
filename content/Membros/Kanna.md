@@ -61,11 +61,11 @@
 ## K - Killy Killy Joker
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SRPqswHvUyw?si=inwdSk-drM6Zh_Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Killy Killy Joker](../../Killy%20Killy%20Joker.md)
-- **Anime:** [WIXOSS](../../WIXOSS.md)
+- **Música:** [Killy Killy Joker](../Músicas/Killy%20Killy%20Joker.md)
+- **Anime:** [WIXOSS](../Animes/WIXOSS.md)
 
 ## L - Liar mask
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mAzFWd5WqOg?si=TK-irZj1TijFMgqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Liar Mask](../../Liar%20Mask.md)
-- **Anime:** [Akame ga Kill](../../Akame%20ga%20Kill.md)
+- **Música:** [Liar Mask](../Músicas/Liar%20Mask.md)
+- **Anime:** [Akame ga Kill](../Animes/Akame%20ga%20Kill.md)

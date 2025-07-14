@@ -55,11 +55,16 @@
 ## J - Jiyuu no Tsubasa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ErgcCrXU0Ig?si=8mLWcaLqSqWr7nX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Jiyuu no Tsubasa](../../Jiyuu%20no%20Tsubasa.md)
-- **Anime:** [Attack on Titan](../../Attack%20on%20Titan.md)
+- **Música:** [Jiyuu no Tsubasa](../Músicas/Jiyuu%20no%20Tsubasa.md)
+- **Anime:** [Attack on Titan](../Animes/Attack%20on%20Titan.md)
 
 ## K - Kyouran Hey Kids!!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aZenmeRytEM?si=k0SqqkN-gTXQj35Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Kyouran Hey Kids!!](../../Kyouran%20Hey%20Kids!!.md)
-- **Anime:** [Noragami Aragoto](../../Noragami%20Aragoto.md)
+- **Música:** [Kyouran Hey Kids!!](../Músicas/Kyouran%20Hey%20Kids!!.md)
+- **Anime:** [Noragami Aragoto](../Animes/Noragami%20Aragoto.md)
+## L - Love Dramatic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WZof19wk4Ec?si=AV3QnGApc-S2F9hn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Love Dramatic](../Músicas/Love%20Dramatic.md)
+- **Anime:** [Kaguya-sama: Love is War](../Animes/Kaguya-sama%20Love%20is%20War.md)
