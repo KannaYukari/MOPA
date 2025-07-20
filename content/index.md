@@ -7,7 +7,8 @@ Regras da brincadeira:
 - Não pode animes repetidos.
 
 ## Jogadores
-- [[Kanna]]
-- [[Octavus]]
-- [[DJ]]
+- [Kanna](Membros/Kanna.md)
+- [Octavus](Membros/Octavus.md)
+- [DJ](Membros/DJ.md)
+- [Hamaru](Membros/Hamaru.md)
 

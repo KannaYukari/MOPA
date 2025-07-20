@@ -4,53 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "47431217505b11ff",
+        "id": "8f2ea34ecdd35280",
         "type": "tabs",
         "children": [
           {
-            "id": "1b46e98d37736c41",
+            "id": "3aa0f16d71cbb981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Membros/Octavus.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Octavus"
+              "title": "index"
             }
           },
           {
-            "id": "8b3f78d4660a9458",
+            "id": "7d2dc6baad4c04fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Animes/Kaguya-sama Love is War.md",
+                "file": "content/Músicas/Redo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kaguya-sama Love is War"
-            }
-          },
-          {
-            "id": "ac6ce8f0a3f98eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Jiyuu no Tsubasa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jiyuu no Tsubasa"
+              "title": "Redo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Animes/Kaguya-sama Love is War.md",
+                "file": "content/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +130,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kaguya-sama Love is War"
+              "title": "Graph of index"
             }
           }
         ]
@@ -245,32 +230,32 @@
   },
   "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "content/Músicas/Love Dramatic.md",
-    "content/Músicas/Jiyuu no Tsubasa.md",
-    "content/Animes/Kaguya-sama Love is War.md",
-    "content/Animes/Attack on Titan.md",
-    "content/Membros/Octavus.md",
+    "content/Membros/Hamaru.md",
+    "content/Músicas/Redo.md",
+    "content/Animes/Re_ZERO.md",
+    "content/Músicas/Re_Re.md",
+    "content/Músicas/Ready to Rock.md",
+    "content/Animes/Rock is a Lady's Modesty.md",
     "content/Membros/Kanna.md",
-    "content/Animes/Akame ga Kill.md",
-    "content/Animes/WIXOSS.md",
-    "content/Músicas/Liar Mask.md",
-    "content/Músicas/Killy Killy Joker.md",
-    "content/Animes/Saga of Tanya the Evil.md",
-    "content/Músicas/Jingo Jungle.md",
-    "content/Animes/Noragami Aragoto.md",
-    "content/Músicas/Kyouran Hey Kids!!.md",
-    "content/Animes/Rakudai Kishi no Cavalry.md",
-    "content/Músicas/identity.md",
-    "content/Músicas/Irony.md",
-    "content/Animes/Oreimo.md",
-    "content/Músicas/Here.md",
-    "content/Animes/Mahoutsukai no Yome.md",
-    "content/Músicas/Hologram.md",
-    "content/Animes/Fullmetal Alchemist.md",
-    "content/Animes/GAMERS!.md",
-    "content/Músicas/GAMERS!.md",
-    "content/Animes/A Salad Bowl of Eccentrics.md",
-    "content/Músicas/Ash Like Snow.md",
+    "content/Músicas/Question.md",
+    "content/Animes/Assassination Classroom.md",
+    "content/Músicas/Pure Pare-Do.md",
+    "content/Animes/Toradora!.md",
+    "content/Animes/Boku dake ga inai machi.md",
+    "content/Membros/Octavus.md",
+    "content/Músicas/Queen.md",
+    "content/Animes/Shangri-la Frontier.md",
+    "content/Animes/Soul Eater.md",
+    "content/Músicas/Papermoon.md",
+    "content/Animes/Hunter X Hunter.md",
+    "content/Músicas/Ohayou.md",
+    "content/Membros/DJ.md",
+    "content/Animes/Dumbbell Nan Kilo Moteru?.md",
+    "content/Músicas/Naraku no Hana.md",
+    "content/Músicas/Onegai Muscle.md",
+    "content/Animes/Higurashi.md",
+    "content/Animes/Toaru.md",
+    "content/Músicas/Masterpiece.md",
     "content/notas/2025/07/03/entrada",
     "content/notas/2025/07/03",
     "content/notas/2025/07",

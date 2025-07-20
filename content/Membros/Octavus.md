@@ -68,3 +68,40 @@
 
 - **Música:** [Love Dramatic](../Músicas/Love%20Dramatic.md)
 - **Anime:** [Kaguya-sama: Love is War](../Animes/Kaguya-sama%20Love%20is%20War.md)
+
+## M - My soul, your beats
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eksw56g-WBY?si=lawqnxCXTDEAqSI-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [My soul, your beats](../Músicas/My%20soul,%20your%20beats.md)
+- **Anime:** [Angel beats](../Animes/Angel%20beats.md)
+
+## N - Never say never
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zKwRkTaIsZo?si=5jIWt1nqFo6rR_Jp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Never say never](../Músicas/Never%20say%20never.md)
+- **Anime:** [DanganRonpa](../Animes/DanganRonpa.md)
+
+
+## O - Ohayou
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5rNML9jKnQo?si=-HPjggZ8xVW9j9St" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Ohayou](../Músicas/Ohayou.md)
+- **Anime:** [Hunter X Hunter](../Animes/Hunter%20X%20Hunter.md)
+
+## P - Papermoon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-eYK3YP524A?si=X9650qMF1csCoHhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Papermoon](../Músicas/Papermoon.md)
+- **Anime:** [Soul Eater](../Animes/Soul%20Eater.md)
+
+## Q - Queen
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fwx_3JsOmiQ?si=W_OAwbRpN9j8DvdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Queen](../Músicas/Queen.md)
+- **Anime:** [Shangri-la Frontier](../Animes/Shangri-la%20Frontier.md)
+
+## R - Re:Re
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fodAJ-1dN3I?si=xF956rbV1Hlc0RBn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Re:Re](../Músicas/Re_Re.md)
+- **Anime:** [Boku dake ga inai machi](../Animes/Boku%20dake%20ga%20inai%20machi.md)

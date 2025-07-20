@@ -69,3 +69,39 @@
 
 - **Música:** [Liar Mask](../Músicas/Liar%20Mask.md)
 - **Anime:** [Akame ga Kill](../Animes/Akame%20ga%20Kill.md)
+
+## M - Masterpiece
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EjQCuivmbjs?si=roZMckYXKx9x9fmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Masterpiece](../Músicas/Masterpiece.md)
+- **Anime:** [Toaru](../Animes/Toaru.md)
+
+## N - Naraku no Hana
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GZgzc3_-eA?si=c261n_I_uRHOxYAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Naraku no Hana](../Músicas/Naraku%20no%20Hana.md)
+- **Anime:** [Higurashi](../Animes/Higurashi.md)
+
+## O - Onegai Muscle
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijCRlmxUleI?si=88XkCzRlRDTLOA8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Onegai Muscle](../Músicas/Onegai%20Muscle.md)
+- **Anime:** [Dumbbell Nan Kilo Moteru?](../Animes/Dumbbell%20Nan%20Kilo%20Moteru?.md)
+
+## P - Pure Pare-Do
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CzOEMJSQRZU?si=HdsJ0SPlO070Esxa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Pure Pare-Do](../Músicas/Pure%20Pare-Do.md)
+- **Anime:** [Toradora!](../Animes/Toradora!.md)
+
+## Q - QUESTION
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iug12DnMNHQ?si=96AqLGojPefDPhqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Question](../Músicas/Question.md)
+- **Anime:** [Assassination Classroom](../Animes/Assassination%20Classroom.md)
+
+## R - Ready to rock!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yvQJMvms-ok?si=G4XNmi1ShwxEgSWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [[../Músicas/Ready to Rock]]
+- **Anime:** [[../Animes/Rock is a Lady's Modesty]]
