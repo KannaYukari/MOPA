@@ -105,3 +105,45 @@
 
 - **Música:** [Re:Re](../Músicas/Re_Re.md)
 - **Anime:** [Boku dake ga inai machi](../Animes/Boku%20dake%20ga%20inai%20machi.md)
+
+## S - SAKURA KISS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdfjslKWYmk?si=JZcIqDQta5E5dNxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Sakura Kiss](../Músicas/Sakura%20Kiss.md)
+- **Anime:** [Ouran Host club](../Animes/Ouran%20Host%20club.md)
+
+## T - This Game
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6CBp4qylX6I?si=feJVxL2ms-i4MtD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [This Game](../Músicas/This%20Game.md)
+- **Anime:** [No Game No Life](../Animes/No%20Game%20No%20Life.md)
+
+## U - Unmei
+<iframe width="560" height="315" src="https://www.youtube.com/embed/asyT-N1Ip70?si=zSTpfkguMZMnYUCd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Unmei](../Músicas/Unmei.md)
+- **Anime:** [Dungeon Meshi](../Animes/Dungeon%20Meshi.md)
+
+## V - VORACITY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vci9YwpFFcA?si=QMNNQvnCtJLxC2kG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [VORACITY](../Músicas/VORACITY.md)
+- **Anime:** [Overlord](../Animes/Overlord.md)
+
+## W - Wagame mirror heart
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CT6mAsAWfTw?si=j4gVruoAHCY45V6l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Wagame mirror heart](../Músicas/Wagame%20mirror%20heart.md)
+- **Anime:** [Masamune-kun's Revenge](../Animes/Masamune-kun's%20Revenge.md)
+
+## X - X-encounter
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPCEwhGEfLU?si=3jx8xL6AuagUDEfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [X-encounter](../Músicas/X-encounter.md)
+- **Anime:** [Tokyo Ravens](../Animes/Tokyo%20Ravens.md)
+
+## Y - Yuusha
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QoGM9hCxr4k?si=uT4KC9UO5VC1wxnB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yuusha](../Músicas/Yuusha.md)
+- **Anime:** [Sousou no Frieren](../Animes/Sousou%20no%20Frieren.md)

@@ -103,5 +103,47 @@
 ## R - Ready to rock!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yvQJMvms-ok?si=G4XNmi1ShwxEgSWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [[../Músicas/Ready to Rock]]
-- **Anime:** [[../Animes/Rock is a Lady's Modesty]]
+- **Música:** [Ready to Rock](../Músicas/Ready%20to%20Rock.md)
+- **Anime:** [Rock is a Lady's Modesty](../Animes/Rock%20is%20a%20Lady's%20Modesty.md)
+
+## S - Seishun Complex
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlSbEP4V-gI?si=RkOpBl2e77N5xcSd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Seishun Complex](../Músicas/Seishun%20Complex.md)
+- **Anime:** [Bocchi The Rock!](../Animes/Bocchi%20The%20Rock!.md)
+
+## T - Taiga yo Tomo ni Naite Kure
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDHGwnVWpJA?si=kt11iIYQfAhzifWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Taiga yo Tomo ni Naite Kure](../Músicas/Taiga%20yo%20Tomo%20ni%20Naite%20Kure.md)
+- **Anime:** [Zombie Land Saga](../Animes/Zombie%20Land%20Saga.md)
+
+## U - Unravel
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7aMOurgDB-o?si=yDexKtNWHEesGp7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Unravel](../Músicas/Unravel.md)
+- **Anime:** [Tokyo Ghoul](../Animes/Tokyo%20Ghoul.md)
+
+## V - Vivid Vice
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFTE4W--Htk?si=yPMNUVCi3P0hyvCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Vivid Vice](../Músicas/Vivid%20Vice.md)
+- **Anime:** [Jujutsu Kaisen](../Animes/Jujutsu%20Kaisen.md)
+
+## W - WA! MOON! DASS! CRY!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tYXPjGe0COQ?si=U5z2ERIyYuZWHW4V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [WA! MOON! DASS! CRY!](../Músicas/WA!%20MOON!%20DASS!%20CRY!.md)
+- **Anime:** [Joshikousei no Mudazukai](../Animes/Joshikousei%20no%20Mudazukai.md)
+
+## X - XY&Z
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rXWDOI4f4Wk?si=5gKtCA1IyF7HMETt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [XY&Z](../Músicas/XY&Z.md)
+- **Anime:** [Pokemon](../Animes/Pokemon.md)
+
+## Y - Yuri Yura rarara yuru yuri daijigen
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xJRz_ByxzDY?si=MwHkrUTJoMRD9Dq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yuri Yura rarara yuru yuri daijigen](../Músicas/Yuri%20Yura%20rarara%20yuru%20yuri%20daijigen.md)
+- **Anime:** [Yuri Yuri](../Animes/Yuri%20Yuri.md)

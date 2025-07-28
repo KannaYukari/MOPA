@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3aa0f16d71cbb981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "7d2dc6baad4c04fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Redo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -102,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,14 +111,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 306.5
   },
   "right": {
     "id": "70366b6089a4156a",
@@ -219,43 +200,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8afc08e9adc94d60",
+  "active": "7d2dc6baad4c04fe",
   "lastOpenFiles": [
-    "content/Membros/Hamaru.md",
-    "content/Músicas/Redo.md",
-    "content/Animes/Re_ZERO.md",
-    "content/Músicas/Re_Re.md",
+    "content/Membros/Kanna.md",
+    "content/Músicas/Yuri Yura rarara yuru yuri daijigen.md",
+    "content/Músicas/XY&Z.md",
+    "content/Animes/Yuri Yuri.md",
+    "content/Animes/Pokemon.md",
+    "content/Músicas/WA! MOON! DASS! CRY!.md",
+    "content/Animes/Joshikousei no Mudazukai.md",
+    "content/Músicas/Vivid Vice.md",
+    "content/Animes/Jujutsu Kaisen.md",
+    "content/Músicas/Unravel.md",
+    "content/Animes/Tokyo Ghoul.md",
+    "content/Músicas/Taiga yo Tomo ni Naite Kure.md",
+    "content/Animes/Zombie Land Saga.md",
+    "content/Músicas/Seishun Complex.md",
+    "content/Animes/Bocchi The Rock!.md",
     "content/Músicas/Ready to Rock.md",
     "content/Animes/Rock is a Lady's Modesty.md",
-    "content/Membros/Kanna.md",
-    "content/Músicas/Question.md",
-    "content/Animes/Assassination Classroom.md",
-    "content/Músicas/Pure Pare-Do.md",
-    "content/Animes/Toradora!.md",
-    "content/Animes/Boku dake ga inai machi.md",
+    "content/Músicas/Yuusha.md",
+    "content/Animes/Sousou no Frieren.md",
     "content/Membros/Octavus.md",
-    "content/Músicas/Queen.md",
-    "content/Animes/Shangri-la Frontier.md",
-    "content/Animes/Soul Eater.md",
-    "content/Músicas/Papermoon.md",
-    "content/Animes/Hunter X Hunter.md",
-    "content/Músicas/Ohayou.md",
-    "content/Membros/DJ.md",
-    "content/Animes/Dumbbell Nan Kilo Moteru?.md",
-    "content/Músicas/Naraku no Hana.md",
-    "content/Músicas/Onegai Muscle.md",
-    "content/Animes/Higurashi.md",
-    "content/Animes/Toaru.md",
-    "content/Músicas/Masterpiece.md",
+    "content/Músicas/X-encounter.md",
+    "content/Animes/Tokyo Ravens.md",
+    "content/Músicas/Wagame mirror heart.md",
+    "content/Animes/Masamune-kun's Revenge.md",
+    "content/Músicas/VORACITY.md",
+    "content/Animes/Overlord.md",
     "content/notas/2025/07/03/entrada",
     "content/notas/2025/07/03",
     "content/notas/2025/07",
